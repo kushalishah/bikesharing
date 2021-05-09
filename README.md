@@ -6,7 +6,7 @@ The purpose of our project is to convince investors that a bike-sharing program 
 Show the length of time that bikes are checked out for all riders and genders, show the number of bike trips for all riders and genders for each hour of each day of the week, and show the number of bike trips for each type of user and gender for each day of the week in the month of August. Finally, I added these new visualizations created in this module for my final presentation and analysis to pitch to investors.
 
 The link below takes you to the Tableau Data Visualization dashboard:
-[link to dashboard]("https://public.tableau.com/profile/kushali.shah#!/vizhome/NYCCitiBike_16199973622460/NYCCitiBikeStory?publish=yes")
+[https://public.tableau.com/profile/kushali.shah#!/vizhome/NYCCitiBike_16199973622460/NYCCitiBikeStory?publish=yes](https://public.tableau.com/profile/kushali.shah#!/vizhome/NYCCitiBike_16199973622460/NYCCitiBikeStory?publish=yes)
 
 # Results:
 
